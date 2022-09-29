@@ -1,3 +1,5 @@
+<img width="100%" src="https://media-exp1.licdn.com/dms/image/C4D16AQHUEFsIJqMEDw/profile-displaybackgroundimage-shrink_350_1400/0/1659029916983?e=1669852800&v=beta&t=9Lrafc3lFFdCP3ouaRA38tFUnLpxyKQ8n4CKMvhmxJU">
+
 <h1 align="center">Hi 👋, I'm Shehab Al-Hawary</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
