@@ -11,7 +11,9 @@
 
 - 💬 Ask me about **JavaScript, Vue**
 
-- 📫 How to reach me **shehabelhawary267@gmail.com**
+- 📫 How to reach me **shehabelhawary267@gmail.com**,
+**+201200680957**
+- 😌 I love coding, swimming, reading and try new things
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
