@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shehabelhawary267@gmail.com**,
 **+201200680957**
-- 😌 I love coding, swimming, reading and try new things
+- 😌 I love coding, swimming, reading and exploring new things
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
